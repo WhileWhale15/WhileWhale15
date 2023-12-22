@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Affifah Aulia Zahra</h1>
-<h3>👋 Hello there! I'm a dedicated student from the dynamic tech landscape of Indonesia, where my heart beats for the world of web development. Currently honing my skills in frontend development, I find joy in crafting immersive and user-friendly digital experiences. Whether I'm sculpting elegant user interfaces or diving deep into the intricacies of HTML, CSS, and JavaScript, I'm committed to staying on the cutting edge of frontend technologies. Join me on this coding adventure as I bring ideas to life and contribute to the ever-evolving web ecosystem. </h3>
+<h3 align="center">👋 Hello there! I'm a dedicated student from the dynamic tech landscape of Indonesia, where my heart beats for the world of web development. Currently honing my skills in frontend development, I find joy in crafting immersive and user-friendly digital experiences. Whether I'm sculpting elegant user interfaces or diving deep into the intricacies of HTML, CSS, and JavaScript, I'm committed to staying on the cutting edge of frontend technologies. Join me on this coding adventure as I bring ideas to life and contribute to the ever-evolving web ecosystem. </h3>
 
-<h3>🎨 Beyond the digital canvas of code, my other great passion lies in the realm of 3D art. I am fascinated by the ability to transform ideas into visually stunning and tangible creations. Whether I'm experimenting with modeling, texturing, or lighting, I revel in the process of giving life to virtual worlds. Follow along as I navigate the intersection of technology and creativity, exploring the depths of both web development and 3D art.</h3>
+<h3 align="center">🎨 Beyond the digital canvas of code, my other great passion lies in the realm of 3D art. I am fascinated by the ability to transform ideas into visually stunning and tangible creations. Whether I'm experimenting with modeling, texturing, or lighting, I revel in the process of giving life to virtual worlds. Follow along as I navigate the intersection of technology and creativity, exploring the depths of both web development and 3D art.</h3>
   
-<h3>💻Let's build and sculpt a future where innovation knows no bounds! 🖌️✨</h3>
+<h3 align="center">💻Let's build and sculpt a future where innovation knows no bounds! 🖌️✨</h3>
 
 
 - 👨‍💻 All of my projects are available at [ww1501.github.io](ww1501.github.io)
