@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [ww1501.github.io](ww1501.github.io)
 
 - 📫 How to reach me **affifahaulia.zahra@gmail.com**
+  
+- 🔭 I’m currently working on new web developing project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
