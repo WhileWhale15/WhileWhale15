@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">🎨 Beyond the digital canvas of code, my other great passion lies in the realm of 3D art. I am fascinated by the ability to transform ideas into visually stunning and tangible creations. Whether I'm experimenting with modeling, texturing, or lighting, I revel in the process of giving life to virtual worlds. Follow along as I navigate the intersection of technology and creativity, exploring the depths of both web development and 3D art.</h3>
   
 <h3 align="center">💻Let's build and sculpt a future where innovation knows no bounds! 🖌️✨</h3>
-
+<br>
 
 - 👨‍💻 All of my projects are available at [ww1501.github.io](ww1501.github.io)
 
