@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Affifah Aulia Zahra</h1>
-<h3 align="center">A student passionate in web developing mainly in frontend (for now) from Indonesia</h3>
+<h3 align="center">A student passionate in web developing mainly in frontend (for now) and in 3D art from Indonesia</h3>
 
 - 👨‍💻 All of my projects are available at [ww1501.github.io](ww1501.github.io)
 
@@ -49,6 +49,3 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whilewhale15&show_icons=true&locale=en&layout=compact" alt="whilewhale15" />
-</p>
