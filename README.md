@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 <h3 align="center">💻Let's build and sculpt a future where innovation knows no bounds! 🖌️✨</h3>
 
-- 👨‍💻 All of my projects are available at [ww1501.github.io](ww1501.github.io)
+- 👨‍💻 All of my 3D projects are available at [ww1501.github.io](ww1501.github.io)
 
 - 📫 How to reach me **affifahaulia.zahra@gmail.com**
   
