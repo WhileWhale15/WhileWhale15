@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hello there!👋 I'm Affifah Aulia Zahra</h1>
 <h3 align="center">👋 I'm a dedicated student from the dynamic tech landscape of Indonesia, where my heart beats for the world of web development. Currently honing my skills in frontend development, I find joy in crafting immersive and user-friendly digital experiences. Whether I'm sculpting elegant user interfaces or diving deep into the intricacies of HTML, CSS, and JavaScript, I'm committed to staying on the cutting edge of frontend technologies.</h3>
@@ -62,3 +61,4 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
+-->
